@@ -1,0 +1,12 @@
+@media screen and(max-width: 768px) {
+    .flex{
+        display: block;
+        text-align: center;
+        background-color:  burlywood;
+    }
+    .child p{
+        font-size: 15px;
+        
+    }
+
+}
